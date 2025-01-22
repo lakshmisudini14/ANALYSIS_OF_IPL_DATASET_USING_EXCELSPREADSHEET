@@ -33,5 +33,7 @@ The dataset has the below attributes about the every match from season 2008 to 2
 - Use shapes and icons
 - Advance excel formulas
 - Confidence to design and develop any MIS dashboard
+- ![image](https://github.com/user-attachments/assets/4bc32d4b-a2af-4f23-97dd-8ba870f274b1)
+
 
 
